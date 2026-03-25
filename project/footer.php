@@ -10,7 +10,7 @@
          <h3>contact info</h3>
          <p> <i class="fas fa-phone"></i> +123-456-7890 </p>
          <p> <i class="fas fa-phone"></i> +111-222-3333 </p>
-         <p> <i class="fas fa-envelope"></i> thaparajesh123@gmail.com </p>
+         <!-- <p> <i class="fas fa-envelope"></i> thaparajesh123@gmail.com </p> -->
          <p> <i class="fas fa-map-marker-alt"></i> Kathmandu, Nepal </p>
       </div>
 
